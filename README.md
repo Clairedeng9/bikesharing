@@ -11,6 +11,9 @@ The lists of visualizations to:
 [Welcome to my dashboard!](https://public.tableau.com/app/profile/claire.deng/viz/BikeTripAnalysis_16580446357350/NYCCITIBikeStory)
 
 ### 2. Results
+the Checkout Times for Users
+
+
 
 
 ### 3. Summary
