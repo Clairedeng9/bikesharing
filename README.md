@@ -11,7 +11,8 @@ The lists of visualizations to:
 [Welcome to my dashboard!](https://public.tableau.com/app/profile/claire.deng/viz/BikeTripAnalysis_16580446357350/NYCCITIBikeStory)
 
 ### 2. Results
-the Checkout Times for Users
+The overall information for CitiBike data
+![截屏2022-07-17 下午6 58 25](https://user-images.githubusercontent.com/103073631/179435206-e23a6e41-19ae-4ab7-92f9-84654b8ffd80.png)
 
 
 
